@@ -13,7 +13,7 @@ In this project I have used the basic concept of python, Tkinter, base64 library
 
 ### INSTALLING THE REQUIRED LIBRARIES
 
-  * #### Installing Tkinter
+* #### Installing Tkinter
     ```
     
     ```
