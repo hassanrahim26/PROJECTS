@@ -11,6 +11,7 @@ In this project I have used the basic concept of python, Tkinter, and base64 lib
 * **base64** module provides a function to encode the binary data to ASCII characters and decode that ASCII characters back to binary data.
 
 ### INSTALLING THE REQUIRED LIBRARIES
+   I have installed these libraries using Ubuntu 18.04 terminal.
 
 * #### Installing Tkinter
     ```
