@@ -25,4 +25,6 @@ In this project I have used the basic concept of python, Tkinter, and base64 lib
 
    These are the step to build message encode – decode python project
    * Importing module
-   * Create display window
+   * Creating display window
+   * Defining function
+   * Defining labels and buttons
