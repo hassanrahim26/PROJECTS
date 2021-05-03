@@ -8,5 +8,7 @@ In this project, the user have to enter the message to encode or decode. User ha
 
 In this project I have used the basic concept of python, Tkinter, base64 library.
 
--> **Tkinter** is a standard GUI
+-> **Tkinter** is a standard GUI python library.
+-> **base64** module provides a function to encode the binary data to ASCII characters 
+
 
