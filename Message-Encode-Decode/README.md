@@ -22,3 +22,5 @@ In this project I have used the basic concept of python, Tkinter, and base64 lib
         sudo apt-get install cl-base64
     ```
 ### PROJECT FILE STRUCTURE
+
+   These are the step to build message encode – decode python project
