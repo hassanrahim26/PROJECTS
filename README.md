@@ -11,4 +11,8 @@ In this project I have used the basic concept of python, Tkinter, base64 library
 * **Tkinter** is a standard GUI python library.
 * **base64** module provides a function to encode the binary data to ASCII characters and decode that ASCII characters back to binary data.
 
+To install the library I have used pip install command on the Ubuntu Terminal
+
+
+
 
