@@ -19,5 +19,7 @@ In this project I have used the basic concept of python, Tkinter, base64 library
        sudo apt-get install python3-tk
     ```
 * #### Installing base64
-    `sudo apt-get install cl-base64`
+    ```
+        sudo apt-get install cl-base64
+    ```
        
