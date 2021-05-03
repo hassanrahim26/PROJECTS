@@ -7,5 +7,6 @@ In this project, the user have to enter the message to encode or decode. User ha
 ### PROJECT PREREQUISITES
 
 In this project I have used the basic concept of python, Tkinter, base64 library.
-> **Tkinter** is a standard GUI
+
+-> **Tkinter** is a standard GUI
 
