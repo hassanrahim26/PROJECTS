@@ -15,5 +15,6 @@ In this project I have used the basic concept of python, Tkinter, base64 library
 
 * #### Installing Tkinter
     ```
-    
+       sudo apt-get update
+       sudo apt-get install python3-tk
     ```
